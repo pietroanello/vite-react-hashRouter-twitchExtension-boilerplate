@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "esnext",
+    "baseUrl": "./src",
+    "paths": {
+      "@components/*": ["./components/*"],
+      "@context/*": ["./context/*"],
+      "@assets/*": ["./assets/*"],
+      "@views/*": ["./views/*"],
+      "@utils/*": ["./utils/*"]
+    }
+  }
+}

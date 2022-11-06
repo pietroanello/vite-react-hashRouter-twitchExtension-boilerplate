@@ -1,1 +1,1 @@
-# vite-react-twitch-extension-boilerplate
+# vite-react-hashRouter-twitchExtension-boilerplate
